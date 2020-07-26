@@ -15,7 +15,7 @@ Concepts: Machine Learning, Linear Regression, Support Vector Machine, Random Fo
 
 ## Results
 Actionable Insights through Visualization and modelling:
-•	Female customers are giving lower satisfaction ratings and could be offered a better deal for improvement
-•	Aged (60-85) customers are using “Personal Type of travel” and their average satisfaction is low. Hence, personal travel amenities for senior customers should be increased and they should be well-maintained.
-•	Premium status classes like Gold, Platinum, Silver are having good customer satisfaction whereas Blue has lower ratings. Therefore, extra services should be provided for convenience of customers travelling through Blue status
-•	Customers taking more flights per year are giving low satisfaction ratings. Thus, loyal customers should be provided with discounts and points which might satisfy them in long run
+1. Female customers are giving lower satisfaction ratings and could be offered a better deal for improvement
+2. Aged (60-85) customers are using “Personal Type of travel” and their average satisfaction is low. Hence, personal travel amenities for senior customers should be increased and they should be well-maintained.
+3. Premium status classes like Gold, Platinum, Silver are having good customer satisfaction whereas Blue has lower ratings. Therefore, extra services should be provided for convenience of customers travelling through Blue status
+4. Customers taking more flights per year are giving low satisfaction ratings. Thus, loyal customers should be provided with discounts and points which might satisfy them in long run
